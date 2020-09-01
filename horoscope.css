@@ -1,0 +1,134 @@
+body{
+    background-color:#c8d4e4;
+    text-transform: uppercase;
+}
+.container{
+    margin-top: 5%;
+}
+.row{
+    text-align: center;
+    background-color:#172449;
+    padding:7%;
+    border-radius: 7px;
+}
+.row h5{padding: 6px; color:#f6f7f9}
+.row .date input{
+    border-radius: 9px;
+    width:80px;
+    height: 30px;
+    text-align: center;
+    border:none;
+    background-color:#79a0c9;
+    color: #071e3b;
+    font-size: 17px;
+    font-family: fantasy;
+    letter-spacing: 2px;
+}
+.row .btn #a7sb{
+    width: 150px;
+    border-radius: 19px;
+    height:40px;
+    background-color:#79a0c9;
+    color: #071e3b;
+    border:none;
+    font-family: fantasy;
+    margin-top: 17px;
+}
+/*start programming*/
+.prog{
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top:50px;
+}
+.prog .row2 img{
+    width:190px;
+    border-radius: 50%;
+    display: none;
+}
+.prog .row2 .about .msg{
+    position: relative;
+    bottom:20px;
+}
+.prog .row2 .about p{
+text-align: justify;
+line-height: 29px;
+font-family: monospace;
+letter-spacing: 2px;
+color: black;
+padding: 0px 15px;
+
+}
+
+/* var editting */
+.fire{
+    margin-top: 17px;
+    background-color: #7e1313;
+    color: yellow;
+    font-size: 17px;
+    padding: 3% 1%;
+    border-radius: 7px;
+}
+.fire img{
+    border:20px #c8d4e4 solid;
+    position: relative;
+    top:-79px;
+}
+.fire .about #p{
+    color:rgb(224, 255, 46);
+    margin-top: 39px;
+}
+/*end fire*/
+.water{
+    margin-top: 17px;
+    background-color: #000e5c;
+    color: rgb(212, 210, 248);
+    font-size: 17px;
+    padding: 3% 1%;
+    border-radius: 7px;
+}
+.water img{
+    border:20px #c8d4e4 solid;
+    position: relative;
+    top:-79px;
+}
+.water #p{
+    color:rgb(113, 117, 179);
+    margin-top: 39px;
+}
+/*end water*/
+.air{
+    margin-top: 17px;
+    background-color: #0a77de;
+    color: #00acfe;
+    font-size: 17px;
+    padding: 3% 1%;
+    border-radius: 7px;
+}
+.air img{
+    border:20px #c8d4e4 solid;
+    position: relative;
+    top:-79px;
+}
+.air #p{
+    color:#36d6fe;
+    margin-top: 39px;
+}
+/*end air*/
+.land{
+    margin-top: 17px;
+    background-color: #008073;
+    color: #02c39a;
+    font-size: 17px;
+    padding: 3% 1%;
+    border-radius: 7px;
+}
+.land img{
+    border:20px #c8d4e4 solid;
+    position: relative;
+    top:-79px;
+}
+.land #p{
+    color:#f0f3bd;
+    margin-top: 39px;
+}
