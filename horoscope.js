@@ -187,7 +187,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الدلو");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now. ");
             document.getElementById("var1").setAttribute("class" , "air");
             break;
         }
@@ -197,7 +197,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الميزان");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "air");
             break;
         }
@@ -207,7 +207,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الجوزاء");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "air");
             break;
         
@@ -222,7 +222,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج السرطان");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "water");
             break;
         }
@@ -232,7 +232,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج العقرب");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "water");
             break;
         }
@@ -242,7 +242,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الحوت");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "water");
             break;
         }
@@ -255,7 +255,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الأسد");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "fire");
             var zero = 0;
             break;
@@ -266,7 +266,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الحمل");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now. ");
             document.getElementById("var1").setAttribute("class" , "fire");
             break;
         }
@@ -276,7 +276,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج القوس");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now. ");
             document.getElementById("var1").setAttribute("class" , "fire");
             break;
         }
@@ -289,7 +289,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الجدي");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now. ");
             document.getElementById("var1").setAttribute("class" , "land");
             break;
         }
@@ -299,7 +299,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج الثور");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now. ");
             document.getElementById("var1").setAttribute("class" , "land");
             break;
         }
@@ -309,7 +309,7 @@ a7sb.onclick = function() {
             image.style.display = "inline";
             sh(old + " Year's old");
             h("برج العذراء");
-            p("t this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text this is a text ");
+            p("It could be hard to find your footing early in the day, Leo. You may be better off sleeping in. Have a good breakfast and relax in the morning. By evening, you'll be refreshed, recharged, and ready to take on the town. Your emotions may feel restricted, which could make it difficult to fully express yourself. You'd be better off turning this energy inward now.");
             document.getElementById("var1").setAttribute("class" , "land");
             break;
         }
